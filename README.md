@@ -23,5 +23,8 @@ This repository contains a simple Ping Pong game built using HTML, CSS, and Java
 - Score tracking
 - Simple, responsive design
 
+### **To Play**
+To play and test it out, Open this link:
+https://harshparandkar.github.io/PingPongJS/
 
 #**Enjoy playing the classic Ping Pong game in your browser!**
